@@ -1,0 +1,1 @@
+what I want is Create Python script that records the given HTML file, we need the highest possible recording quality at 1080p. Make sure that the audio is recorded.how to record the video using playwright and open cv in python.html file is located in "E:\recording_initial\recording\hello.html". write the whole code.I want to record since loading the html content for 30s.
